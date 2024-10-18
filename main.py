@@ -33,8 +33,11 @@ Fast Residual Decay,
 """
 
 import experiments as exp
+import pathlib
 
 if __name__ == '__main__':
+
+    pathlib.Path("results").mkdir(parents=True, exist_ok=True)
 
     print('Testing rates numerically, generating Figure 2.1')
     exp.test_rate()
