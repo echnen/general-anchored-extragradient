@@ -8,7 +8,7 @@
 #      R. I. Bot and E. Chenchene.
 #      Extra-Gradient Method with Flexible Anchoring: Strong Convergence and
 #      Fast Residual Decay,
-#      2024. DOI: XX.YYYYY/arXiv.XXXX.YYYYY.
+#      2024. DOI: 10.48550/arXiv.2410.14369.
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
@@ -28,7 +28,7 @@ Run this script to obtain all Figures of:
 R. I. Bot and E. Chenchene.
 Extra-Gradient Method with Flexible Anchoring: Strong Convergence and
 Fast Residual Decay,
-2024. DOI: XX.YYYYY/arXiv.XXXX.YYYYY.
+2024. DOI: 10.48550/arXiv.2410.14369.
 
 """
 
