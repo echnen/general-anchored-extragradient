@@ -2,7 +2,7 @@
 
 This repository contains the experimental source code to reproduce the numerical experiments in:
 
-* R. I. Bot, E. Chenchene. Extra-Gradient Method with Flexible Anchoring: Strong Convergence and Fast Residual Decay. 2024. [ArXiv preprint](https://arxiv.org/abs/xxxx.yyyyy)
+* R. I. Bot, E. Chenchene. Extra-Gradient Method with Flexible Anchoring: Strong Convergence and Fast Residual Decay. 2024. [ArXiv preprint](https://arxiv.org/abs/2410.14369)
 
 To reproduce the results of the numerical experiments in Sections 5.1 and 5.2, run:
 ```bash
@@ -14,7 +14,7 @@ If you find this code useful, please cite the above-mentioned paper:
 @article{bc24,
   author = {Bo\c{t}, Radu I. and Chenchene, Enis},
   title = {Extra-{G}radient {M}ethod with {F}lexible {A}nchoring: {S}trong {C}onvergence and {F}ast {R}esidual {D}ecay},
-  pages = {xxxx.yyyyy},
+  pages = {2410.14369},
   journal = {ArXiv},
   year = {2024}
 }
